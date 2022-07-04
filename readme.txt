@@ -1,7 +1,8 @@
 To run the file please follow the steps mentioned below:
 1) navigate to the correct directory in the terminal
 2) type the command "python3 solver.py"
-3) the output would be shown in the terminal
+3) code will take input from input.txt
+4) the output would be shown in the terminal
 
 
 To give your own input:
